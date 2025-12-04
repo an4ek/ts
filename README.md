@@ -17,5 +17,5 @@
 - Pinia 
 
 ## Ссылка на деплой
-[Открыть]((https://todots-rho.vercel.app/))
+[Открыть]([(https://todots-rho.vercel.app/)](https://todots-rho.vercel.app/))
 Лебедева Анна ФИТ-231
